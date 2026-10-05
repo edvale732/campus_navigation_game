@@ -15,14 +15,17 @@
 
 - Existing campus orientation techniques are flawed
 - In person orientations in Welcome Week lead to information overload
+
 ![info-overload](images/info-overload.png)
  
 - Students often rely on GPS systems to navigate
+
 ![gps](images/mazemap.png)
 
 
 
 - Explored virtual campus tours as an alternative
+
 ![vr](images/vr-campus-tour.png)
 
   - These do not have any replay incentive
