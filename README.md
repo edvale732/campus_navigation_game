@@ -4,6 +4,8 @@
 ### Grade: A
 ### An open-world videogame set on the Lancaster University campus, designed to help incoming students learn the campus layout before arrival.
 
+### [Read my Dissertation!](TYP-Report-FINAL.pdf)
+
 ## Aims
 
 - Create a videogame modelled on the Lancaster University campus
