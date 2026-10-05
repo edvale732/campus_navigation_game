@@ -15,15 +15,15 @@
 
 - Existing campus orientation techniques are flawed
 - In person orientations in Welcome Week lead to information overload
- <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2d61fa68-9f43-45e5-886e-1475bdfd75b3" />
+![info-overload](images/info-overload.png)
  
 - Students often rely on GPS systems to navigate
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/478415c3-514a-4682-a66e-ba5e65c2a963" />
+![gps](images/mazemap.png)
 
 
 
 - Explored virtual campus tours as an alternative
-<img width="872" height="490" alt="image" src="https://github.com/user-attachments/assets/a3c466a3-eeb8-4ea1-83d9-beba9036468e" />
+![vr](images/vr-campus-tour.png)
 
   - These do not have any replay incentive
  
@@ -97,7 +97,7 @@ A brief overview of some of these choices are in the following section
 - Explored existing cooking games such as Overcooked and Papa's Pizzeria
 - Simple but addictive
 
-<img width="1100" height="825" alt="image" src="https://github.com/user-attachments/assets/7910fb2c-6683-4765-aae2-c5f243eeb40b" />
+![papas](images/papas-pizzeria.png)
 
 
 - Fruit Ninja another inspiration
@@ -106,7 +106,7 @@ A brief overview of some of these choices are in the following section
   - Combos
 
 
- <img width="822" height="462" alt="image" src="https://github.com/user-attachments/assets/83ece353-e11c-46cf-9ec7-23b1f711fe34" />
+![fruit ninja](images/fruit-ninja.png)
 
 
 ### Delivery Quest
@@ -115,7 +115,7 @@ A brief overview of some of these choices are in the following section
   - There is no direct use of GPS, forcing player to learn layout
 
 
-<img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/c416e461-bfe4-4e26-b1c5-87f1c82cad5b" />
+![wii](images/wii-party.png)
 
 - Provides structured navigation
 
@@ -141,7 +141,7 @@ A brief overview of some of these choices are in the following section
 
 Testing showed satisfactory performance with some stutter 
 
-<img width="795" height="335" alt="image" src="https://github.com/user-attachments/assets/91fb7a08-9693-4ff0-aa44-d6692abf6303" />
+![testing](images/testing.png)
 
 
 ## Evaluation
@@ -154,7 +154,7 @@ Testing showed satisfactory performance with some stutter
 ### Evaluation Plan
 - Users had to identify landmarks along a route, like in this picture
 
- <img width="591" height="829" alt="image" src="https://github.com/user-attachments/assets/fcdde500-74aa-4191-bb8c-3aa3e77b0382" />
+![route](images/route.png)
 
 - They did multiple of these tasks before and after playing videogame
 - See if videogame improves navigation
@@ -168,9 +168,9 @@ Testing showed satisfactory performance with some stutter
 
 ### Results
 
-<img width="777" height="453" alt="image" src="https://github.com/user-attachments/assets/e85fd616-d38a-4e17-ae13-8d4e6d446d0d" />
+![f1-precision-recall](images/f1-recall-precision.png)
 
-<img width="758" height="431" alt="image" src="https://github.com/user-attachments/assets/06cbc7c9-1f07-4591-addc-b46fa0879b8b" />
+![task-completion](images/task-completion.png)
 
 - There was a slight increase in the metrics, suggesting landmark recognition and navigational ability improved
 - However this could be the learning effect
