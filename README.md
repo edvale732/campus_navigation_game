@@ -29,7 +29,7 @@
  
 - Videogames were the solution
 - Use implicit learning
-  - “(knowledge) acquired largely independently of the subject’s awareness of either the process of acquisition or knowledge base ultimately acquired”
+  > (knowledge) acquired largely independently of the subject’s awareness of either the process of acquisition or knowledge base ultimately acquired
 
 ## Problem Statement
 
